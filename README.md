@@ -1,4 +1,4 @@
-# Clear-bot-updates
+# clear-bot-pending-updates
 Guide to clear pending bot updates (pyTelegramBotAPI)
 
 It helps us to overcome from telebot pending update error.
